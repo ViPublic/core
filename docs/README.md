@@ -1,6 +1,6 @@
 please make sure to read https://github.com/ViPublic/core/blob/master/docs/manifesto.md
 
-This is a fork of project aeternity and the explanations for the plans and the reasoning why a fork was neccessary are provided there.
+This is a fork of project aeternity and the explanations for the plans and the reasoning why a fork was necessary are provided there.
 
 For now I will let the following ReadMe file unchanged other than this comment.
 
